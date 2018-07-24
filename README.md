@@ -1,0 +1,2 @@
+# rc
+Rosettacode output images
